@@ -145,10 +145,12 @@ sudo systemctl restart junctiond && sudo journalctl -u junctiond -f --no-hostnam
 
 Logs :
 
+```
 sudo journalctl -u junctiond -f --no-hostname -o cat
+```
 
 
-پاک کردن نود -----
+پاک کردن نود ----- ************************ فقط در صورتی استفاده کنید که میخواید کلا نود رو پاک کنید از سروتون ********************************
 
 ```
 sudo systemctl stop junctiond
