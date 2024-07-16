@@ -158,3 +158,14 @@ sudo rm $(which junctiond)
 sudo rm -rf $HOME/.junction
 ```
 
+ادامه دارد 
+
+
+
+
+
+اموزش ساخت استیشن و کسب امتیاز
+
+https://paragraph.xyz/@sarox.eth/airchain-rollup?referrer=0xbefEf0FE13B9bD398A88DAB74CCd62099C51333C
+
+
